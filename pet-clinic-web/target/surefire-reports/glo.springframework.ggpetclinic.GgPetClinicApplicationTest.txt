@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: glo.springframework.ggpetclinic.GgPetClinicApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.157 s - in glo.springframework.ggpetclinic.GgPetClinicApplicationTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.511 s - in glo.springframework.ggpetclinic.GgPetClinicApplicationTest
