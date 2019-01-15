@@ -1,4 +1,4 @@
-package glo.springframework.ggpetclinic;
+package ggpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
