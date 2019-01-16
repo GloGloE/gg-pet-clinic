@@ -1,11 +1,9 @@
 package glo.springframework.ggpetclinic.model;
 
-public class Person {
-
+public class Person extends BaseEntity
+{
 	private String fName;
 	private String lName;
-
-
 
 	public String getfName() {
 		return fName;

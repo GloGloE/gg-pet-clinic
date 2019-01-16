@@ -1,6 +1,6 @@
 package glo.springframework.ggpetclinic.model;
 
-public class PetType
+public class PetType extends BaseEntity
 {
 	private String name;
 
